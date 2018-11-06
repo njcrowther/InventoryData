@@ -3,22 +3,22 @@
   "results": [
     {
       "item_description": "Blackweb Nintendo Switch Screen Protector",
-      "image": "https://gecgithub01.walmart.com/n0c00bh/InventoryData/blob/master/img/Blackweb-Nintendo-Switch-Protector.jpg",
+      "image": "https://github.com/njcrowther/InventoryData/blob/master/img/Blackweb-Nintendo-Switch-Protector.jpg",
       "UPC": "0123456789"
     },
     {
       "item_description": "Brawny Paper Towels",
-      "image": "~/img/Brawny-Paper-Towels.jpg",
+      "image": "https://github.com/njcrowther/InventoryData/blob/master/img/Brawny-Paper-Towels.png",
       "UPC": "2034985720349"
     },
     {
       "item_description": "Charmin Ultra Soft",
-      "image": "~/img/Charmin-Ultra-Soft.jpg",
+      "image": "https://github.com/njcrowther/InventoryData/blob/master/img/Charmin-Ultra-Soft.jpg",
       "UPC": "1203498123984"
     },
     {
       "item_description": "Ziploc Sandwich Bags",
-      "image": "~/img/Ziploc-Sandwich-Bags.jpg",
+      "image": "https://github.com/njcrowther/InventoryData/blob/master/img/Ziploc-Sandwich-Bags.jpg",
       "UPC": "1203498123984"
     }
   ]
